@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>085773009666 Plain Detergent Sabun Haji Dan Umroh Tanpa Aroma Di Jakarta Dan Purwokerto</title>
-  <link rel="stylesheet" href="/alkholisi/styles.css">
+  <link rel="stylesheet" href="/pelatihan/styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
@@ -47,9 +47,9 @@ var s=(new Date()).getSeconds();
     }
 
     Promise.all([
-      loadElement('/alkholisi/header.html', 'header'),
-      loadElement('/alkholisi/footer.html', 'footer'),
-      fetch('/alkholisi/posts.json').then(response => response.json())
+      loadElement('/pelatihan/header.html', 'header'),
+      loadElement('/pelatihan/footer.html', 'footer'),
+      fetch('/pelatihan/posts.json').then(response => response.json())
     ]).then(([_, __, posts]) => {
       document.getElementById('year').textContent = new Date().getFullYear();
 
