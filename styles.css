@@ -114,26 +114,7 @@ footer a {
   width: 100%; /* Ensure images fill their container */
   height: auto; /* Maintain aspect ratio */
 }
-/* Desktop version (default) */
-@media (min-width: 768px) {
-  .gallery-item {
-    grid-template-columns: repeat(4, 1fr); /* 4 columns for desktop */
-  }
-}
 
-/* Tablet version */
-@media (max-width: 767px) and (min-width: 481px) {
-  .gallery-item {
-    grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
-  }
-}
-
-/* Mobile version */
-@media (max-width: 480px) {
-  .gallery-item {
-    grid-template-columns: 1fr; /* 1 column for mobile */
-  }
-}
 
 /* Added to styles.css */
 .pagination {
