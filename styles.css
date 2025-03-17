@@ -106,13 +106,13 @@ footer a {
 
 
 .gallery-item {
-  gap: 10px; /* Space between images */
-  padding: 10px;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
 .gallery-item img {
-  width: 100%; /* Ensure images fill their container */
-  height: auto; /* Maintain aspect ratio */
+  width: 100%;
 }
 
 
