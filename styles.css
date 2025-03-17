@@ -107,8 +107,6 @@ footer a {
 
 .gallery-item {
   display: grid;
-  gap: 10px; /* Space between images */
-  padding: 10px;
 }
 
 .gallery-item img {
