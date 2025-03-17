@@ -12,7 +12,7 @@
   
   <div class="content">
   
-    <div id="gallery" class="gallery"></div>
+    <div id="gallery-item" class="gallery-item"></div>
     <div id="pagination" class="pagination"></div>
   </div>
 
@@ -49,7 +49,7 @@
       const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
       const paginatedPosts = posts.slice(startIndex, startIndex + POSTS_PER_PAGE);
 
-      const postList = document.getElementById('gallery');
+      const postList = document.getElementById('gallery-item');
       postList.innerHTML = paginatedPosts.map(post => `
       <div class="gallery">
          <div class="gallery-item">  
