@@ -1,4 +1,4 @@
- const POSTS_PER_PAGE = 5;
+ const POSTS_PER_PAGE = 6;
 
     function loadElement(url, elementId) {
       return fetch(url)
