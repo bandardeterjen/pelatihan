@@ -99,9 +99,91 @@ footer a {
   width: 100%;
   height: auto;
 }
-.post-list { margin-top: 2rem; }
-.post-item { margin-bottom: 2rem; }
-.post-item h3 { margin-bottom: 0.5rem; }
+
+/* Post List Modif */
+.post-list {
+  margin-top: 2rem; 
+}
+.post-item {
+  display: grid;
+  gap: 10px; /* Space between images */
+  padding: 10px;		
+}
+.post-item img {
+  width: 100%; /* Ensure images fill their container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Optional: Add rounded corners */	
+}
+.post-item img {
+  transition: transform 0.3s ease;
+}
+
+.post-item:hover img {
+  transform: scale(1.1); /* Slightly zoom in on hover */
+}
+/* Desktop version (default) */
+@media (min-width: 768px) {
+  .post-item {
+    grid-template-columns: repeat(4, 1fr); /* 4 columns for desktop */
+  }
+}
+
+/* Tablet version */
+@media (max-width: 767px) and (min-width: 481px) {
+  .post-item {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
+  }
+}
+
+/* Mobile version */
+@media (max-width: 480px) {
+  .post-item {
+    grid-template-columns: 1fr; /* 1 column for mobile */
+  }
+}
+
+
+/* Image gallery */
+.gallery {
+  display: grid;
+  gap: 10px; /* Space between images */
+  padding: 10px;
+}
+
+.gallery-item img {
+  width: 100%; /* Ensure images fill their container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}
+
+/* Desktop version (default) */
+@media (min-width: 768px) {
+  .gallery {
+    grid-template-columns: repeat(4, 1fr); /* 4 columns for desktop */
+  }
+}
+
+/* Tablet version */
+@media (max-width: 767px) and (min-width: 481px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
+  }
+}
+
+/* Mobile version */
+@media (max-width: 480px) {
+  .gallery {
+    grid-template-columns: 1fr; /* 1 column for mobile */
+  }
+}
+.gallery-item img {
+  transition: transform 0.3s ease;
+}
+
+.gallery-item:hover img {
+  transform: scale(1.1); /* Slightly zoom in on hover */
+}
+
 
 /* Added to styles.css */
 .pagination {
@@ -167,44 +249,3 @@ table tr td {
 
 table tr th :first-child, table tr td :first-child { margin-top: 0; }
 table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
-
-/* Image gallery */
-.gallery {
-  display: grid;
-  gap: 10px; /* Space between images */
-  padding: 10px;
-}
-
-.gallery-item img {
-  width: 100%; /* Ensure images fill their container */
-  height: auto; /* Maintain aspect ratio */
-  border-radius: 8px; /* Optional: Add rounded corners */
-}
-
-/* Desktop version (default) */
-@media (min-width: 768px) {
-  .gallery {
-    grid-template-columns: repeat(4, 1fr); /* 4 columns for desktop */
-  }
-}
-
-/* Tablet version */
-@media (max-width: 767px) and (min-width: 481px) {
-  .gallery {
-    grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
-  }
-}
-
-/* Mobile version */
-@media (max-width: 480px) {
-  .gallery {
-    grid-template-columns: 1fr; /* 1 column for mobile */
-  }
-}
-.gallery-item img {
-  transition: transform 0.3s ease;
-}
-
-.gallery-item:hover img {
-  transform: scale(1.1); /* Slightly zoom in on hover */
-}
