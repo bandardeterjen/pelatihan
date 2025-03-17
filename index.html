@@ -51,11 +51,9 @@
 
       const postList = document.getElementById('gallery-item');
       postList.innerHTML = paginatedPosts.map(post => `
-      <div class="gallery">
          <div class="gallery-item">  
          <a href="${post.url}"><img src="${post.img}" alt="${post.alt}" loading="lazy"></a>
          </div>
-      </div>
       `).join('');
 
       const pagination = document.getElementById('pagination');
