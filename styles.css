@@ -100,50 +100,49 @@ footer a {
   height: auto;
 }
 
-/* Post List Modif */
-.post-list {
-  margin-top: 2rem; 
 }
-.post-item {
+.post-list { margin-top: 2rem; }
+.post-item { margin-bottom: 2rem; }
+
+.gallery {
   display: grid;
   gap: 10px; /* Space between images */
-  padding: 10px;		
-}
-.post-item img {
-  width: 100%; /* Ensure images fill their container */
-  height: auto; /* Maintain aspect ratio */
-  border-radius: 8px; /* Optional: Add rounded corners */	
-}
-.post-item img {
-  transition: transform 0.3s ease;
+  padding: 10px;
 }
 
-.post-item:hover img {
-  transform: scale(1.1); /* Slightly zoom in on hover */
+.gallery-item img {
+  width: 100%; /* Ensure images fill their container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Optional: Add rounded corners */
 }
+
 /* Desktop version (default) */
 @media (min-width: 768px) {
-  .post-item {
+  .gallery {
     grid-template-columns: repeat(4, 1fr); /* 4 columns for desktop */
   }
 }
 
 /* Tablet version */
 @media (max-width: 767px) and (min-width: 481px) {
-  .post-item {
+  .gallery {
     grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
   }
 }
 
 /* Mobile version */
 @media (max-width: 480px) {
-  .post-item {
+  .gallery {
     grid-template-columns: 1fr; /* 1 column for mobile */
   }
 }
+.gallery-item img {
+  transition: transform 0.3s ease;
+}
 
-
-
+.gallery-item:hover img {
+  transform: scale(1.1); /* Slightly zoom in on hover */
+}
 /* Added to styles.css */
 .pagination {
   display: flex;
