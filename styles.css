@@ -112,7 +112,6 @@ footer a {
 .gallery-item img {
   width: 100%; /* Ensure images fill their container */
   height: auto; /* Maintain aspect ratio */
-  border-radius: 8px; /* Optional: Add rounded corners */
 }
 /* Desktop version (default) */
 @media (min-width: 768px) {
@@ -134,13 +133,7 @@ footer a {
     grid-template-columns: 1fr; /* 1 column for mobile */
   }
 }
-.gallery-item img {
-  transition: transform 0.3s ease;
-}
 
-.gallery-item:hover img {
-  transform: scale(1.1); /* Slightly zoom in on hover */
-}
 /* Added to styles.css */
 .pagination {
   display: flex;
