@@ -28,23 +28,27 @@ Dengan mengikuti pelatihan online ini, Anda dapat membuat deterjen laundry atau 
 ### Pertanyaan Yang Sering Diajukan (FAQ)
 <details>
 <summary>Materi berupa apa?</summary>
-Materi berupa file video dan teks
+Materi berupa file video dan teks.
 </details>
 <details>
 <summary>Materi dikirim via apa?</summary>
 Materi dikirim via Whatsapp atau email.
 </details>
 <details>
+<summary>Bisa dilihat dulu materinya?</summary>
+Yang jelas materi berupa teks dan video. Anda transaksi dulu baru saya berikan materi. 
+</details>
+<details>
 <summary>Apakah bisa konsultasi kalau ada kendala?</summary>
-Bisa nanti via Whatsapp terkait materi yang diikuti
+Bisa nanti via Whatsapp terkait materi yang diikuti.
 </details>
 <details>
 <summary>Apakah bisa kursus langsung?</summary>
-Bisa. Anda bisa ke Workshop di Jakarta, Bogor, atau Purwokerto
+Bisa. Anda bisa ke Workshop di Jakarta, Bogor, atau Purwokerto.
 </details>
 <details>
 <summary>Apakah bahan disediakan?</summary>
-Iya bila ikuti kursus langsung (offline)
+Iya bila ikuti kursus langsung (offline). Bahan dan hasil praktek nanti bisa dibawa pulang
 </details>
 <details>
 <summary>Saya di luar kota, apakah bisa?</summary>
@@ -53,11 +57,11 @@ Banda Aceh, Bener Meriah, Bireun, Gayo Lues, Langsa, Lhokseumawe, Nagan Raya, Pi
 </details>
 <details>
 <summary>Berapa harga pelatihan/kursus online ini?</summary>
-Harga Rp 375000 per materi
+Harga Rp 375000 per materi.
 </details>
 <details>
 <summary>Bagaimana cara pembayaran?</summary>
-Via transfer bank
+Via transfer bank. Pastikan kirim tanda bukti ya.
 </details>
 <details>
 <summary>Saya masih ragu kalau transfer, adakah opsi lain?</summary>
@@ -73,7 +77,10 @@ Tidak bisa. Uang tidak bisa dikembalikan dengan alasan apapun.
 </details>
 <details>
 <summary>Apakah ada bonus?</summary>
-Iya. Bonus 100++ resep kimia industri tentang laundry, household, otomotif, dan skincare
+Iya. Bonus 100++ resep kimia industri tentang laundry, household, otomotif, dan skincare.
+</details>
+<summary>Soal perijinan bagaimana?</summary>
+Anda bisa urus sendiri terkait perijinan di daerah masing-masing. Di sini hanya membuka pelatihan atau kursus.
 </details>
     
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
