@@ -35,8 +35,12 @@ Materi berupa file video dan teks.
 Materi dikirim via Whatsapp atau email.
 </details>
 <details>
+<summary>Materinya apa saja?</summary>
+Materi sesuai dengan judul dan deskripsi.
+</details>
+<details>
 <summary>Bisa dilihat dulu materinya?</summary>
-Yang jelas materi berupa teks dan video. Anda transaksi dulu baru saya berikan materi. 
+Anda transaksi dulu baru diberikan materi. 
 </details>
 <details>
 <summary>Apakah bisa konsultasi kalau ada kendala?</summary>
