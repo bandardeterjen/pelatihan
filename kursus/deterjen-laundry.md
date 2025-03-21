@@ -55,7 +55,10 @@ Banda Aceh, Bener Meriah, Bireun, Gayo Lues, Langsa, Lhokseumawe, Nagan Raya, Pi
 <summary>Berapa harga pelatihan/kursus online ini?</summary>
 Harga Rp 375000 per materi
 </details>
-
+<details>
+<summary>Apkah ada bonus?</summary>
+Iya. Bonus 100++ resep kimia industri tentang laundry, household, otomotif, dan skincare
+</details>
     
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
