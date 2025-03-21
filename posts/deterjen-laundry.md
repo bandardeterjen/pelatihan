@@ -38,9 +38,11 @@ Materi dikirim via Whatsapp atau email.
 <summary>Apakah bisa konsultasi kalau ada kendala?</summary>
 Bisa nanti via Whatsapp terkait materi yang diikuti
 </details>
+<details>
 <summary>Apakah bisa kursus langsung?</summary>
 Bisa. Anda bisa ke Workshop di Jakarta, Bogor, atau Purwokerto
 </details>
+<details>
 <summary>Apakah bahan disediakan?</summary>
 Iya bila ikuti kursus langsung (offline)
 </details>
