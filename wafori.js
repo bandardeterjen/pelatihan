@@ -17,18 +17,18 @@ document.getElementById('whatsappForm').addEventListener('submit', function (e) 
 
   // Construct the message
   const message = `
-    *New Order Details:*
-    Name: ${name}
+    *Ada yang mau ikut pelatihan nih:*
+    Nama: ${name}
     Email: ${email}
-    Phone: ${phone}
-    Address: ${address}
-    Product: ${product}
+    Telepon: ${phone}
+    Alamat: ${address}
+    Produk: ${product}
 
-    *Browser Info:* ${userAgent}
-    *Date:* ${date}
-    *Time:* ${time}
+    *Browser:* ${userAgent}
+    *Tanggal:* ${date}
+    *Jam:* ${time}
 
-    Terimakasih sudah berbelanja pada kami
+    Terimakasih sudah mempercayakan ikut pelatihan pada kami
   `;
 
   // Encode the message for URL
