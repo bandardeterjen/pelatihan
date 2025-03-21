@@ -13,9 +13,6 @@ Mencuci pakaian merupakan kegiatan rutin yang dilakukan oleh sebagian besar oran
 <br>
 </div>
 
-Bahan-bahan untuk membuat deterjen laundry dan sabun cuci pakaian akan dikirimkan ke rumah Anda melalui marketplace terpercaya ini.
-
-
 
 Jika Anda mengalami kendala selama proses pembuatan deterjen laundry atau sabun cuci pakaian, Anda dapat melakukan konsultasi melalui aplikasi perpesanan. Kami akan dengan senang hati membantu Anda mengatasi masalah yang Anda hadapi.
 
