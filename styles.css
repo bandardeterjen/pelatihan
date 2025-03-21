@@ -92,7 +92,7 @@ footer a {
   margin: 2rem auto;
   padding: 0 20px;
 }
-.content h1, h4, h5, h6 {
+.content h1, h2, h3 {
   text-align: center;
 }
 .content img {
