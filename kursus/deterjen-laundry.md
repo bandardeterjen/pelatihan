@@ -61,7 +61,7 @@ Via transfer bank
 </details>
 <details>
 <summary>Saya masih ragu kalau transfer, adakah opsi lain?</summary>
-Bisa via pihak ketiga seperti di Ratakan tapi tidak mendapat _support_ karena biaya admin tinggi yakni 35%. Anda tetap mendapatkan materi yang cukup dan bonus.
+Bisa via pihak ketiga seperti di Ratakan tapi tidak mendapat support konsultasi karena biaya admin tinggi yakni 35%. Anda tetap mendapatkan materi yang cukup dan bonus.
 </details>
 <details>
 <summary>Apakah ada bonus?</summary>
