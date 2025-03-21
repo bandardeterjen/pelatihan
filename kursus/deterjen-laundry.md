@@ -79,6 +79,7 @@ Tidak bisa. Uang tidak bisa dikembalikan dengan alasan apapun.
 <summary>Apakah ada bonus?</summary>
 Iya. Bonus 100++ resep kimia industri tentang laundry, household, otomotif, dan skincare.
 </details>
+<details>
 <summary>Soal perijinan bagaimana?</summary>
 Anda bisa urus sendiri terkait perijinan di daerah masing-masing. Di sini hanya membuka pelatihan atau kursus.
 </details>
