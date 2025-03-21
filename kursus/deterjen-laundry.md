@@ -56,7 +56,7 @@ Banda Aceh, Bener Meriah, Bireun, Gayo Lues, Langsa, Lhokseumawe, Nagan Raya, Pi
 Harga Rp 375000 per materi
 </details>
 <details>
-<summary>Apkah ada bonus?</summary>
+<summary>Apakah ada bonus?</summary>
 Iya. Bonus 100++ resep kimia industri tentang laundry, household, otomotif, dan skincare
 </details>
     
