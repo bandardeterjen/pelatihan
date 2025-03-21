@@ -14,7 +14,7 @@ Dalam era modern seperti sekarang, kebutuhan akan deterjen laundry yang berkuali
 </div>
 
 
-### Apa itu Pelatihan Online Deterjen Laundry?
+## Apa itu Pelatihan Online Deterjen Laundry?
 
 Pelatihan ini adalah kursus khusus yang dirancang untuk mengajarkan cara membuat deterjen laundry dalam bentuk cair dengan panduan yang mudah diikuti. Dengan konsep online, pelatihan ini memungkinkan Anda untuk belajar dari rumah, tanpa perlu datang langsung ke lokasi. Bagi Anda yang ingin belajar secara langsung, juga tersedia pelatihan offline dengan fasilitas bahan-bahan yang disediakan.
 
