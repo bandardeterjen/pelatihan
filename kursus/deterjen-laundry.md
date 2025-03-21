@@ -40,7 +40,7 @@ Materi sesuai dengan judul dan deskripsi.
 </details>
 <details>
 <summary>Bisa dilihat dulu materinya?</summary>
-Anda transaksi dulu baru diberikan materi. 
+Sudah dijelaskan materi sesuai dengan judul dan deskripsi. Kalau Anda ingin tahu resep lengkap, Anda transaksi dulu baru diberikan materi. 
 </details>
 <details>
 <summary>Apakah bisa konsultasi kalau ada kendala?</summary>
