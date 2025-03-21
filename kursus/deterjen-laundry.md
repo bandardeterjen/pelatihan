@@ -61,7 +61,15 @@ Via transfer bank
 </details>
 <details>
 <summary>Saya masih ragu kalau transfer, adakah opsi lain?</summary>
-Bisa via pihak ketiga seperti di Ratakan tapi tidak mendapat support konsultasi karena biaya admin tinggi yakni 35%. Anda tetap mendapatkan materi yang cukup dan bonus.
+Bisa ikuti pelatihan offline atau datang langsung, kalau online bisa via pihak ketiga seperti di Ratakan tapi tidak mendapat support konsultasi karena biaya admin tinggi yakni 35%. Anda tetap mendapatkan materi yang cukup dan bonus.
+</details>
+<details>
+<summary>Ini bayar dulu atau bagaimana?</summary>
+Kalau akan mengikuti pelatihan offline atau ketemuan maka wajib DP 35% atau bayar full/penuh. Harga pelatihan offline berbeda ya dengan pelatihan online. Sedangkan kalau ingin mengikuti pelatihan online harus bayar full baru dapatkan materi.
+</details>
+<details>
+<summary>Apakah uang bisa refund?</summary>
+Tidak bisa. Uang tidak bisa dikembalikan dengan alasan apapun. 
 </details>
 <details>
 <summary>Apakah ada bonus?</summary>
