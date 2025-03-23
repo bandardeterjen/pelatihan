@@ -27,7 +27,7 @@ calon pengusaha sukses!</h3>
     <div id="pagination" class="pagination"></div>
   </div>
   <script>
-   const POSTS_PER_PAGE = 8;
+   const POSTS_PER_PAGE = 6;
 
     function loadElement(url, elementId) {
       return fetch(url)
@@ -48,7 +48,7 @@ calon pengusaha sukses!</h3>
     Promise.all([
       loadElement('../header.html', 'header'),
       loadElement('../footer.html', 'footer'),
-      fetch('../posts.json').then(response => response.json())
+      fetch('posts.json').then(response => response.json())
     ]).then(([_, __, posts]) => {
       document.getElementById('year').textContent = new Date().getFullYear();
 
