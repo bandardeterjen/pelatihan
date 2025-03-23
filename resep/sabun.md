@@ -78,7 +78,6 @@ Via transfer bank. Pastikan kirim tanda bukti ya.
 <summary>Saya masih ragu kalau transfer, adakah opsi lain?</summary>
 Bisa via pihak ketiga seperti di Ratakan atau LynkID.
 </details>
-<details>
     
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
