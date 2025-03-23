@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>085773009666 Pelatihan Kursus Sabun Dan Laundry Online / Offline Di Jakarta, Bogor, Bekasi, Depok, Tangerang, dan Purwokerto</title>
-  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="../styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
@@ -46,9 +46,9 @@ calon pengusaha sukses!</h3>
     }
 
     Promise.all([
-      loadElement('../../header.html', 'header'),
-      loadElement('../../footer.html', 'footer'),
-      fetch('../../posts.json').then(response => response.json())
+      loadElement('../header.html', 'header'),
+      loadElement('../footer.html', 'footer'),
+      fetch('../posts.json').then(response => response.json())
     ]).then(([_, __, posts]) => {
       document.getElementById('year').textContent = new Date().getFullYear();
 
