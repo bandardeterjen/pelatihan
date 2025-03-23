@@ -2,31 +2,31 @@
    {
     "alt": "Resep Otomotif",  
     "img": "https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-otomotif.png",
-    "url": "resep/otomotif.html"
+    "url": "/otomotif.html"
   },
    {
     "alt": "Resep Parfum",  
     "img": "https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-parfum.png",
-    "url": "resep/parfum.html"
+    "url": "/parfum.html"
   },
    {
     "alt": "Resep Homecare",  
     "img": "https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-homecare.jpg",
-    "url": "resep/homecare.html"
+    "url": "/homecare.html"
   },
    {
     "alt": "Resep Kimia Laundry",  
     "img": "https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-laundry.png",
-    "url": "resep/kimia-laundry.html"
+    "url": "/kimia-laundry.html"
   },
    {
     "alt": "Resep Laundry Sepatu",  
     "img": "https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-laundry-sepatu.png",
-    "url": "resep/laundry-sepatu.html"
+    "url": "/laundry-sepatu.html"
   },
   {
     "alt": "Resep Lengkap Sabun",
     "img": "https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-sabun.png",
-    "url": "resep/sabun.html"
+    "url": "/sabun.html"
   }
 ]
