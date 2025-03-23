@@ -1,0 +1,97 @@
+<!-- posts/post1.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta content="https://raw.githubusercontent.com/bandardeterjen/resepkimia/refs/heads/images/resep-kimia-homecare.jpg" property="og:url">
+  <link href="https://raw.githubusercontent.com/bandardeterjen/index.html/refs/heads/images/favicon.ico" rel="icon">
+    <link href="https://raw.githubusercontent.com/bandardeterjen/index.html/refs/heads/images/apple-touch-icon.png" rel="apple-touch-icon">
+     <!-- SEO Meta Tag -->
+    <meta content='resep lengkap homecare' name='keywords'/>
+    <meta content='Dapatkan Resep Homecare Lengkap untuk membuat berbagai produk pembersih rumah tangga sendiri! Dengan resep teruji dan sudah dipraktekkan'/>
+    <meta content='index,follow' name='robots'/>
+    <meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
+    <meta content='general' name='rating'/>
+    <!-- SEO Title Tag -->
+    <meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+  <title>085773009666 Resep Lengkap Homecare</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../socpro.css">
+  <link rel="stylesheet" href="../waform.css" >
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+  <div id="header"></div>
+
+   <div id="social-proof-container">
+      <div id="social-proof-notification" class="hidden">
+        <img id="product-image" src="" alt="Product Image">
+        <div id="notification-text">
+          <span id="user-name"></span> telah membeli produk 
+          <a id="product-link" href="#" target="_blank"></a>.
+        </div>
+      </div>
+    </div>
+  
+  <div class="content">
+    <div id="post-content"></div>
+  </div>
+
+   <!-- Formulir Pemesanan -->
+     <div class="content">
+       <h2>Formulir Pemesanan</h2>
+        <form id="whatsappForm">
+      <label for="name">Nama:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="phone">Telepon:</label>
+      <input type="tel" id="phone" name="phone" required>
+
+      <label for="address">Alamat:</label>
+      <textarea id="address" name="address" rows="3" required></textarea>
+
+      <label for="product">Pilih Produk:</label>
+      <select id="product" name="product" required>
+        <option value="Resep Lengkap Homecare Rp 99000">Resep Lengkap Homecare</option>
+        <option value="Resep Lengkap Lainnya">Resep Lengkap Lainnya</option>
+      </select>
+
+      <button type="submit">Kirim Ke WhatsApp</button>
+    </form>
+        </div>
+  
+  <div id="footer"></div>
+
+  <script>
+    // Load header and footer
+    fetch('../header.html')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('header').innerHTML = data;
+      });
+    fetch('../footer.html')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('footer').innerHTML = data;
+        document.getElementById('year').textContent = new Date().getFullYear();
+      });
+
+    // Load and render markdown
+    fetch('homecare.md')
+      .then(response => response.text())
+      .then(text => {
+        document.getElementById('post-content').innerHTML = 
+          marked.parse(text);
+      });
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="../socpro.js"></script>
+  <script src="../waform.js"></script>
+</body>
+</html>
