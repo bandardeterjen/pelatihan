@@ -46,16 +46,6 @@ Dengan mengikuti panduan pelatihan, Anda memiliki kontrol penuh terhadap bahan d
 Pasar produk laundry terus berkembang, dan deterjen bubuk adalah salah satu produk yang selalu dicari. Pelatihan ini memberikan Anda kesempatan untuk memulai bisnis dengan modal kecil namun potensi keuntungan besar.
 
 
-### Bagaimana Cara Mengikuti Pelatihan?
-
-1. **Daftar Sekarang** : Hubungi kontak penyelenggara pelatihan untuk pendaftaran dan informasi lebih lanjut.
-
-2. **Mulai Belajar** : Setelah mendaftar, Anda akan mendapatkan akses ke materi lengkap yang dapat diikuti dari mana saja, kapan saja.
-
-3. **Praktek Mandiri** : Ikuti langkah-langkah pembuatan yang diajarkan. Jika ada kendala, manfaatkan layanan konsultasi gratis.
-
-5. **Pelatihan Offline (Opsional)** : Bagi Anda yang ingin belajar secara langsung, tersedia pelatihan offline di mana semua bahan sudah disiapkan untuk Anda.
-
 
 **Pelatihan Online Deterjen Bubuk** adalah pilihan terbaik bagi Anda yang ingin mempelajari keterampilan baru dengan manfaat praktis. Baik untuk dipakai sendiri atau dijadikan bisnis, pelatihan ini memberikan semua yang Anda butuhkan—dari panduan langkah-langkah, konsultasi gratis, hingga bonus resep kimia industri.
 
@@ -132,5 +122,5 @@ Anda bisa urus sendiri terkait perijinan di daerah masing-masing. Di sini hanya 
     
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
-[Button SI]: https://ratakan.com/uploads/prd-c37c2ec837.png
+[Button SI]: https://ratakan.com/uploads/prd-506feddc94.png
 [Link SI]: #
