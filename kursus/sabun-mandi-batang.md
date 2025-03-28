@@ -62,20 +62,6 @@ Dengan membuat sabun sendiri, Anda dapat menghemat pengeluaran dan memastikan ku
 Keterampilan ini dapat menjadi peluang bisnis yang menjanjikan, dengan target pasar yang luas mulai dari individu, usaha kecil, hingga perusahaan.
 
 
-### Bagaimana Cara Mengikuti Pelatihan?
-
-1. **Daftar Sekarang** :
-Hubungi penyelenggara pelatihan untuk melakukan pendaftaran.
-
-2. **Dapatkan Materi Pelatihan** :
-Setelah mendaftar, Anda akan mendapatkan akses ke panduan lengkap yang dapat Anda pelajari kapan saja dan di mana saja.
-
-3. **Praktek Mandiri** :
-Ikuti panduan yang diberikan untuk membuat sabun mandi batang pertama Anda. Jika ada kendala, manfaatkan layanan konsultasi gratis yang tersedia.
-
-4. **Pelatihan Offline (Opsional)** :
-Bagi yang ingin belajar langsung, tersedia pelatihan tatap muka dengan bahan disediakan.
-
 Pelatihan Online Sabun Mandi Batang adalah cara terbaik untuk belajar membuat sabun mandi custom dengan kreasi Anda sendiri. Dengan panduan praktis, bahan yang mudah ditemukan, dan dukungan mentor via WhatsApp, pelatihan ini memberikan Anda peluang untuk berkreasi dan memulai bisnis sabun unik yang menjanjikan.
 
 Daftar sekarang dan mulai perjalanan Anda menciptakan sabun mandi batang berkualitas! Dengan pelatihan ini, Anda tidak hanya belajar, tetapi juga membuka peluang besar untuk sukses. Selamat mencoba!
