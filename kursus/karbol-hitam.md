@@ -122,5 +122,5 @@ Anda bisa urus sendiri terkait perijinan di daerah masing-masing. Di sini hanya 
     
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
-[Button SI]: https://ratakan.com/uploads/prd-506feddc94.png
+[Button SI]: https://ratakan.com/uploads/prd-cb1f014e50.png
 [Link SI]: #
