@@ -1,28 +1,48 @@
 [
    {
-    "alt": "Pelatihan Online Parfum Gantung Pewangi Mobil",  
-    "img": "https://ratakan.com/uploads/prd-ca8a329f25.png",
-    "url": "kursus/parfum-mobil.html"
+    "alt": "Pelatihan Online Parfum Laundry",  
+    "img": "https://ratakan.com/uploads/prd-2a174fff8f.jpg",
+    "url": "kursus/parfum-laundry.html"
+  },
+  {
+    "alt": "Pelatihan Online Deterjen Laundry",
+    "img": "https://ratakan.com/uploads/prd-c37c2ec837.png",
+    "url": "kursus/deterjen-laundry.html"
+  },
+    {
+    "alt": "Pelatihan Online Pewangi Setrika",  
+    "img": "https://ratakan.com/uploads/prd-9aa4bcac93.png",
+    "url": "kursus/pewangi-setrika.html"
   },
    {
-    "alt": "Pelatihan Online Parfum Pewangi Karpet",  
-    "img": "https://ratakan.com/uploads/prd-0f4a8325b9.png",
-    "url": "kursus/parfum-karpet.html"
+    "alt": "Pelatihan Online Deterjen Bubuk",  
+    "img": "https://ratakan.com/uploads/prd-506feddc94.png",
+    "url": "kursus/deterjen-bubuk.html"
+  },
+    {
+    "alt": "Pelatihan Online Sabun Mandi Batang",  
+    "img": "https://ratakan.com/uploads/prd-7fd0f69a68.png",
+    "url": "kursus/sabun-mandi-batang.html"
+  },
+    {
+    "alt": "Pelatihan Membuat Sabun Mandi Batang Transparan",  
+    "img": "https://ratakan.com/uploads/prd-0f37222bd6.png",
+    "url": "kursus/sabun-mandi-batang-transparan.html"
   },
    {
-    "alt": "Pelatihan Online Parfum Pewangi Sepatu",  
-    "img": "https://ratakan.com/uploads/prd-d858bfee14.png",
-    "url": "kursus/parfum-sepatu.html"
+    "alt": "Pelatihan Online Sabun Cuci Piring",  
+    "img": "https://ratakan.com/uploads/prd-cf5b609f8b.png",
+    "url": "kursus/sabun-cuci-piring.html"
   },
    {
-    "alt": "Pelatihan Online Sabun Colek Krim Jelly",  
-    "img": "https://ratakan.com/uploads/prd-27d932787c.png",
-    "url": "kursus/sabun-colek.html"
+    "alt": "Pelatihan Online Laundry bar Soap",  
+    "img": "https://ratakan.com/uploads/prd-2adcb98631.png",
+    "url": "kursus/laundry-bar-soap.html"
   },
    {
-    "alt": "Pelatihan Online Sabun Pel Lantai",  
-    "img": "https://ratakan.com/uploads/prd-e736a3eaf8.png",
-    "url": "kursus/sabun-pel-lantai.html"
+    "alt": "Pelatihan Online Softener Pelembut Pakaian Laundry",  
+    "img": "https://ratakan.com/uploads/prd-5f1b9ccda4.png",
+    "url": "kursus/softener-laundry.html"
   },
    {
     "alt": "Pelatihan Online Sampo Shampoo Karpet",  
@@ -55,21 +75,6 @@
     "url": "kursus/sabun-mandi-cair.html"
   },
    {
-    "alt": "Pelatihan Online Sabun Mandi Batang",  
-    "img": "https://ratakan.com/uploads/prd-7fd0f69a68.png",
-    "url": "kursus/sabun-mandi-batang.html"
-  },
-   {
-    "alt": "Pelatihan Online Pewangi Setrika",  
-    "img": "https://ratakan.com/uploads/prd-9aa4bcac93.png",
-    "url": "kursus/pewangi-setrika.html"
-  },
-   {
-    "alt": "Pelatihan Online Deterjen Bubuk",  
-    "img": "https://ratakan.com/uploads/prd-506feddc94.png",
-    "url": "kursus/deterjen-bubuk.html"
-  },
-   {
     "alt": "Pelatihan Online Semir Ban",  
     "img": "https://ratakan.com/uploads/prd-5aef08b72f.png",
     "url": "kursus/semir-ban.html"
@@ -80,38 +85,33 @@
     "url": "kursus/touchless-shampoo.html"
   },
    {
-    "alt": "Pelatihan Online Sabun Cuci Piring",  
-    "img": "https://ratakan.com/uploads/prd-cf5b609f8b.png",
-    "url": "kursus/sabun-cuci-piring.html"
-  },
-   {
-    "alt": "Pelatihan Online Laundry bar Soap",  
-    "img": "https://ratakan.com/uploads/prd-2adcb98631.png",
-    "url": "kursus/laundry-bar-soap.html"
-  },
-   {
-    "alt": "Pelatihan Online Softener Pelembut Pakaian Laundry",  
-    "img": "https://ratakan.com/uploads/prd-5f1b9ccda4.png",
-    "url": "kursus/softener-laundry.html"
-  },
-   {
     "alt": "Pelatihan Online Cara Membuat Pembusa Sabun",  
     "img": "https://ratakan.com/uploads/prd-77fd7fceb6.png",
     "url": "kursus/pembusa-sabun.html"
   },
-   {
-    "alt": "Pelatihan Membuat Sabun Mandi Batang Transparan",  
-    "img": "https://ratakan.com/uploads/prd-0f37222bd6.png",
-    "url": "kursus/sabun-mandi-batang-transparan.html"
+    {
+    "alt": "Pelatihan Online Parfum Gantung Pewangi Mobil",  
+    "img": "https://ratakan.com/uploads/prd-ca8a329f25.png",
+    "url": "kursus/parfum-mobil.html"
   },
    {
-    "alt": "Pelatihan Online Parfum Laundry",  
-    "img": "https://ratakan.com/uploads/prd-2a174fff8f.jpg",
-    "url": "kursus/parfum-laundry.html"
+    "alt": "Pelatihan Online Parfum Pewangi Karpet",  
+    "img": "https://ratakan.com/uploads/prd-0f4a8325b9.png",
+    "url": "kursus/parfum-karpet.html"
   },
-  {
-    "alt": "Pelatihan Online Deterjen Laundry",
-    "img": "https://ratakan.com/uploads/prd-c37c2ec837.png",
-    "url": "kursus/deterjen-laundry.html"
+   {
+    "alt": "Pelatihan Online Parfum Pewangi Sepatu",  
+    "img": "https://ratakan.com/uploads/prd-d858bfee14.png",
+    "url": "kursus/parfum-sepatu.html"
+  },
+   {
+    "alt": "Pelatihan Online Sabun Colek Krim Jelly",  
+    "img": "https://ratakan.com/uploads/prd-27d932787c.png",
+    "url": "kursus/sabun-colek.html"
+  },
+   {
+    "alt": "Pelatihan Online Sabun Pel Lantai",  
+    "img": "https://ratakan.com/uploads/prd-e736a3eaf8.png",
+    "url": "kursus/sabun-pel-lantai.html"
   }
 ]
