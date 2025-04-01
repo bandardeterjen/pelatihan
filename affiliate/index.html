@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ratakan Referral Blog</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Ratakan Digital Product Blog</h1>
+    <p>Learn about the best digital products and earn with referrals!</p>
+  </header>
+
+  <main>
+    <!-- Article Section -->
+    <section class="articles">
+      <h2>Latest Articles</h2>
+      <div id="article-container">
+        <!-- Articles will be dynamically displayed here -->
+      </div>
+      <!-- Pagination Controls -->
+      <div id="pagination-controls" class="pagination">
+        <button id="prev-page">Previous</button>
+        <span id="page-info"></span>
+        <button id="next-page">Next</button>
+      </div>
+    </section>
+
+    <!-- Referral Email Input -->
+    <section class="referral-generator">
+      <h2>Generate Your Referral Link</h2>
+      <p>Enter your email below to create personalized referral links:</p>
+      <input type="email" id="user-email" placeholder="Enter your email">
+      <button id="generate-links">Update Links</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Ratakan Referral Blog</p>
+  </footer>
+
+  <script src="post.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
