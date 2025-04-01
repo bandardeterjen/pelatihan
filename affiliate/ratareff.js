@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
           return;
         }
         const referralUrl = `${productUrl}?aff=${encodeURIComponent(userEmail)}`;
-        const whatsappUrl = `https://wa.me/?text=Check out this product: ${encodeURIComponent(referralUrl)}`;
+        const whatsappUrl = `https://wa.me/?text=Check out prdouk ini: ${encodeURIComponent(referralUrl)}`;
         window.open(whatsappUrl, '_blank');
       });
     });
