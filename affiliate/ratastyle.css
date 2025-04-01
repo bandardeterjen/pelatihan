@@ -1,4 +1,3 @@
-
 .articles article {
   margin-bottom: 1.5rem;
 }
@@ -11,6 +10,25 @@
   color: white;
   text-decoration: none;
   border-radius: 5px;
+}
+
+.share-buttons {
+  margin-top: 0.5rem;
+  display: none; /* Hidden by default */
+}
+
+.share-buttons button {
+  margin-right: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #25D366; /* WhatsApp Green */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.share-buttons button.facebook {
+  background: #1877F2; /* Facebook Blue */
 }
 
 .referral-generator {
