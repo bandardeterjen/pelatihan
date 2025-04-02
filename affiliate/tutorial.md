@@ -5,6 +5,16 @@
 
 Kini, Anda bisa menghasilkan uang secara online tanpa perlu membeli produk, menyimpan stok, atau mengemas barang! Program affiliate untuk produk digital Pelatihan Home Industry Sabun dan Parfum menawarkan cara sederhana dan menguntungkan untuk mendapatkan penghasilan tambahan dengan sedikit modal. Yang Anda perlukan hanyalah kuota internet, kreativitas dalam promosi, dan langkah-langkah berikut ini untuk memulai.
 
+<br>
+
+<div align = center>
+    
+[![Button SI]][Link SI]
+
+<br>
+<br>
+</div>
+
 
 ### Apa Itu Program Affiliate Produk Digital?
 
@@ -62,3 +72,8 @@ Anda akan mendapatkan komisi Rp 100.000 per penjualan bila ada yang berhasil mem
 Bergabung dalam program Affiliate Produk Digital Pelatihan Home Industry Sabun dan Parfum adalah cara yang sederhana namun menguntungkan untuk memulai bisnis online tanpa modal besar. Dengan sistem yang fleksibel dan produk berkualitas, Anda dapat menghasilkan uang hanya dengan membagikan link referral melalui media sosial atau blog.
 
 Daftar sekarang di Ratakan.com, ikuti langkah-langkah mudah di atas, dan jadilah bagian dari kesuksesan program affiliate ini. Tidak perlu tunggu lagi, saatnya Anda mulai mendapatkan penghasilan tambahan dari kenyamanan rumah Anda! 
+
+<!---------------------------------[ Bagian Single Image ]---------------------------------->
+
+[Button SI]: https://bandardeterjen.github.io/pelatihan/images/affiliate-kursus.jpg
+[Link SI]: #
