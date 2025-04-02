@@ -66,7 +66,7 @@ Semua pengiriman produk dilakukan secara digital, sehingga Anda hanya fokus pada
 Pelatihan Home Industry Sabun dan Parfum adalah produk yang bermanfaat dan memiliki pasar luas, sehingga peluang mendapatkan komisi pun semakin besar.
 
 - **Komisi Besar** :
-Anda akan mendapatkan komisi Rp 100.000 per penjualan bila ada yang berhasil membeli produk pelatihan melalui afiliasi Ratakan. Bayangkan bila Anda bisa menjual produk lebih banyak.
+Anda akan mendapatkan komisi Rp 100.000  (tergantung harga produk) per penjualan bila ada yang berhasil membeli produk pelatihan melalui afiliasi Ratakan. Bayangkan bila Anda bisa menjual produk lebih banyak.
 
 
 Bergabung dalam program Affiliate Produk Digital Pelatihan Home Industry Sabun dan Parfum adalah cara yang sederhana namun menguntungkan untuk memulai bisnis online tanpa modal besar. Dengan sistem yang fleksibel dan produk berkualitas, Anda dapat menghasilkan uang hanya dengan membagikan link referral melalui media sosial atau blog.
