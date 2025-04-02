@@ -25,8 +25,8 @@ Input alamat email yang Anda gunakan untuk mendaftar akun di Ratakan. Ini akan m
 4. **Update Link dan Klik Oke pada Pop-Up yang Muncul** :
 Sistem akan menghasilkan link referral khusus untuk Anda. Pastikan untuk memperbarui link tersebut dan mengonfirmasi pada pop-up yang muncul.
 
-5. **Periksa Tombol “Dapatkan Produk” Berubah Menjadi “Klik Produk” **:
-Setelah link berhasil diperbarui, tombol "Dapatkan Produk" akan berubah menjadi "Klik Produk". Selain itu, pastikan tombol share ke WhatsApp dan Facebook juga sudah aktif dan dapat digunakan.
+5. **Periksa Tombol _Dapatkan Produk_ Berubah Menjadi _Klik Produk_**:
+Setelah link berhasil diperbarui, tombol **"Dapatkan Produk"** akan berubah menjadi **"Klik Produk"**. Selain itu, pastikan tombol share ke WhatsApp dan Facebook juga sudah aktif dan dapat digunakan.
 
 6. **Gunakan Link Referral Anda** :
 Klik tombol untuk melihat link referral Anda. Link ini adalah kunci utama untuk mendapatkan komisi dari setiap penjualan.
