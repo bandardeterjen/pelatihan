@@ -6,13 +6,16 @@ document.addEventListener('DOMContentLoaded', () => {
   const nextPageButton = document.getElementById('next-page');
   const pageInfo = document.getElementById('page-info');
 
-  // Sample articles data
+   // Sample articles data
   const articles = [
 	 { title: 'Resep Sabun', 
      description: 'Tingkatkan keahlian Anda dalam membuat sabun dengan kumpulan resep sabun teruji yang kami tawarkan. Pelajari cara membuat berbagai jenis sabun, dari sabun laundry ekonomis hingga sabun pembersih kamar mandi premium.', 
      productUrl: 'https://ratakan.com/product/resep-sabun-D25' },
+	 { title: 'Resep Otomotif', 
+     description: 'Dapatkan Resep Otomotif Lengkap untuk membuat berbagai produk perawatan mobil dan motor Anda sendiri! Dengan resep teruji dan sudah dipraktekkan,', 
+     productUrl: 'https://ratakan.com/product/resep-lengkap-otomotif--710' },
 	 { title: 'Resep Parfum', 
-     description: 'Dapatkan Resep Otomotif Lengkap untuk membuat berbagai produk perawatan mobil dan motor Anda sendiri! Dengan resep teruji dan sudah dipraktekkan.', 
+     description: 'Tingkatkan keahlian Anda dalam membuat parfum dengan kumpulan resep parfum teruji yang kami tawarkan! Pelajari cara membuat berbagai jenis parfum, dari deodoran alami hingga parfum mobil', 
      productUrl: 'https://ratakan.com/product/resep-parfum-lengkap-2C8' },
 	 { title: 'Resep Laundry Sepatu', 
      description: 'Dapatkan Resep Kimia Laundry Sepatu, Helm, dan Tas untuk menjaga penampilan dan memperpanjang usia barang-barang kesayangan Anda! Dengan resep teruji dan sudah dipraktekkan.', 
@@ -93,7 +96,6 @@ document.addEventListener('DOMContentLoaded', () => {
      description: 'Pernahkah Anda berpikir untuk membuat deterjen bubuk berkualitas dengan tangan Anda sendiri? Pelatihan Online Deterjen Bubuk adalah solusi tepat untuk Anda yang ingin belajar membuat produk rumah tangga dengan mudah. Lewat pelatihan ini, Anda tidak hanya mempelajari cara membuat deterjen bubuk untuk kebutuhan pribadi, tetapi juga membuka peluang besar untuk memulai usaha dan menjual produk Anda sendiri', 
      productUrl: 'https://ratakan.com/product/pelatihan-online-deterjen-bubuk-678' },
   ];
-
   const itemsPerPage = 5;
   let currentPage = 1;
   let isValidEmail = false;
