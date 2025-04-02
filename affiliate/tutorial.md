@@ -17,7 +17,7 @@ Affiliate adalah metode pemasaran di mana Anda mendapatkan komisi dari setiap pe
 Ratakan adalah platform marketplace yang menjual berbagai produk digital, termasuk produk pelatihan dari Bandar Deterjen. Langkah pertama adalah membuat akun gratis di situs ini.
 
 2. **Masuk ke Menu Affiliate di Website Pelatihan Bandar Deterjen** :
-Setelah akun Ratakan Anda aktif, kunjungi halaman website pelatihan Bandar Deterjen dan akses menu Affiliate .
+Setelah akun Ratakan Anda aktif, kunjungi halaman website pelatihan Bandar Deterjen dan akses menu Affiliate. Kalau bingung bisa klik [di sini](https://bandardeterjen.github.io/pelatihan/affiliate/).
 
 3. **Masukkan Alamat Email yang Terdaftar di Ratakan** :
 Input alamat email yang Anda gunakan untuk mendaftar akun di Ratakan. Ini akan menghubungkan akun Anda dengan sistem affiliate Bandar Deterjen.
